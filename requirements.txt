@@ -3,3 +3,4 @@ google-generativeai
 flask
 pandas
 pdfplumber
+gunicorn
